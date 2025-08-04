@@ -22,4 +22,4 @@ Wildlife crime is a major driver of biodiversity loss worldwide and has direct i
 ### Future Directions
 - Incorporate temporal patterns to analyze changes over time.  
 - Integrate species distribution data to assess ecosystem impacts.  
-- Develop an interactive dashboard for real-time wildlife crime reporting.
+- Develop an interactive dashboard for real-time wildlife crime reporting. 
